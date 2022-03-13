@@ -1,1 +1,1 @@
-## Node.js learning studies.
+## Node.js projects.
